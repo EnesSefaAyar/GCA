@@ -1,4 +1,4 @@
 İterasyonlar klasörünün oluşması için data dosyasındaki linkten verinin indirilmesi ve programın run edilmesi gerekmektedir.
-İterasyonlar klasöründe modelin kullandığı tüm düğüm ve kenarlar program çalıştırıldığında oluşturulmaktadır, en çok değişim olan yolak ve komşu düğümleri elde etmek için elde etmek için "scope" değeri 0 olan düğümler cytoscape'de silinmelidir.
+İterasyonlar klasöründe modelin kullandığı tüm düğüm ve kenarları içeren ağlar program çalıştırıldığında oluşturulmaktadır, en çok değişim olan yolak ve komşu düğümleri elde etmek için elde etmek için "scope" değeri 0 olan düğümler cytoscape'de silinmelidir.
 yolak_demo.cys dosyasında silinmiş ve görselleştirme için küçültülmüş hali mevcuttur.
 Ekspresyona göre aktiflik sınırı 0.58 seçilmiştir, bu seviyenin altı pasif üstü aktif olarak değerlendirilmektedir.
