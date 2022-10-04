@@ -1,1 +1,0 @@
-Download the data from drive and run the program to obtain .graphml files.
